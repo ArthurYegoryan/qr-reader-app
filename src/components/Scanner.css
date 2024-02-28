@@ -1,0 +1,19 @@
+.qr-string {
+    width: 500px;
+    margin: auto;
+}
+
+.qr-string > p {
+    width: 100%;
+    word-wrap: break-word;
+}
+
+.qr-fields {
+    margin: auto;
+    width: 300px;
+    text-align: left;
+}
+
+.qr-subfields {
+    margin-left: 50px;
+}
